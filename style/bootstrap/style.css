@@ -1,0 +1,21 @@
+body {
+  font-family: 'Arial', sans-serif;
+}
+
+header {
+  background: linear-gradient(to right, #007bff, #6c757d);
+  color: white;
+}
+
+header h1 span {
+  color: #007bff;
+}
+
+.card {
+  margin: 1rem 0;
+}
+
+footer a {
+  text-decoration: none;
+}
+
